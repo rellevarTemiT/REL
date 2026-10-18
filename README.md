@@ -1,5 +1,9 @@
 # REL
+#This is a record of me tinkering with AI as a programming assistant before I became more aware of how I am not so fond of AI as a tool. Very well...
+
+
 # Hello and Welcome, This is going to be a collection site for all the goofy chatGPT Project ideas. 
+
 
     =======================
     = Project ideas tried =
